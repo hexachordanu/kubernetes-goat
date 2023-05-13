@@ -2,7 +2,7 @@
 # Author: Madhu Akula
 # This program has been created as part of Kuberentes Goat
 # Kuberentes Goat Access vulnerable infrastrcuture
-
+testing
 # Checking kubectl setup
 kubectl version --short > /dev/null 2>&1
 if [ $? -eq 0 ];
